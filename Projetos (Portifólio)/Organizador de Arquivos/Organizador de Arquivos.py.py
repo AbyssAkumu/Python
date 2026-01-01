@@ -1,3 +1,17 @@
+# 🚀 Automações em Python - Portfólio
+
+Bem-vindo ao meu repositório de automações! Aqui apresento soluções desenvolvidas para otimizar processos repetitivos e gestão de dados.
+
+## 🛠️ Projetos Principais
+
+### 1. Organizador de Arquivos Inteligente
+Script que monitora pastas (como a de Downloads) e organiza arquivos automaticamente por extensão (.pdf, .jpg, .xlsx) em pastas categorizadas.
+* **Tecnologias:** Python, Bibliotecas `os` e `shutil`.
+* **Benefício:** Organização instantânea e economia de tempo na triagem de documentos.
+
+---
+📫 **Contato para orçamentos e projetos:** [Seu e-mail ou link do LinkedIn/Workana]
+
 import os
 import shutil
 
