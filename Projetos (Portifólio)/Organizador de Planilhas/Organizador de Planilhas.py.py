@@ -1,3 +1,16 @@
+# 🚀 Automações em Python - Portfólio
+
+Bem-vindo ao meu repositório de automações! Aqui apresento soluções desenvolvidas para otimizar processos repetitivos e gestão de dados.
+
+## 🛠️ Projetos Principais
+
+### 2. Processador de Planilhas e Relatórios
+Automação que lê dados de vendas, realiza cálculos financeiros (comissões e impostos) e gera relatórios individuais em Excel.
+* **Tecnologias:** Python, Biblioteca `Pandas`.
+* **Benefício:** Redução de erros humanos em cálculos e agilidade na geração de fechamentos mensais.
+
+---
+📫 **Contato para orçamentos e projetos:** [Seu e-mail ou link do LinkedIn/Workana]
 import pandas as pd
 
 # 1. Configurações
